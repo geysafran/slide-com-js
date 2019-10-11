@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+    font-weight: 900;
+
+}
+img {
+    width: 30vw;
+    height: 30vh;
+}
+
